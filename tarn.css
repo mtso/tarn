@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Tarn';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Tarn'), url(https://github.com/mtso/Tarn.woff) format('woff');
+}
